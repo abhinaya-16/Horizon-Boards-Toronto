@@ -1,6 +1,6 @@
 # 🌆 Horizon Boards Toronto
 
-A modern, responsive **billboard advertising landing page** designed for a fictional outdoor advertising agency based in Toronto.  
+A modern, responsive **billboard advertising landing page** designed for outdoor advertising agency based in Toronto.  
 This project focuses on clean UI design, brand positioning, and digital representation of real-world out-of-home (OOH) advertising services.
 
 ---
